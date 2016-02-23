@@ -1,10 +1,10 @@
 url: https://hakanu.github.io
-baseurl: "/deniz/"
+baseurl: "/wp/"
 
 # Site settings
-title: Cookmate
-email: info@cookmate.com
-description: "Yemek yapmanın hızlı ve keyifli yolu."
+title: Wordpress Hunt
+email: info@wordpresshunt.com
+description: "The best place on earth to find beautiful wordpress themes."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -14,7 +14,7 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Deniz Şahan
+- name: John Doe
   pic: 1
   position: Lead Designer
   social:
@@ -25,7 +25,7 @@ people:
     - title: linkedin
       url: #
 
-- name: Banu Berna Sürmen
+- name: Jane Doe
   pic: 3
   position: Lead Marketer
   social:
@@ -39,19 +39,13 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/wphunt
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: http://facebook.com/wphunt
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Sokak
+  - line: 32432 St.
   - line: Istanbul, Türkiye
 
 # Build settings
