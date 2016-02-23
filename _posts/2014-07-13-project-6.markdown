@@ -1,0 +1,15 @@
+---
+title: Ravioli
+subtitle: Zeytinyağlı ekmek ile birlikte
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+project-date: Nisan 2014
+client: Herkes
+category: Aperatif
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---
