@@ -1,5 +1,5 @@
-url: https://hakanu.github.io
-baseurl: "/wp/"
+url: https://hakanu.github.io/wp
+baseurl: ""
 
 # Site settings
 title: Wordpress Hunt
