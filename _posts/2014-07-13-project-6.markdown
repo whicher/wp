@@ -1,6 +1,6 @@
 ---
-title: Ravioli
-subtitle: Zeytinyağlı ekmek ile birlikte
+title: Free wordpress theme
+subtitle: It's free go ahead
 layout: default
 modal-id: 6
 date: 2014-07-15
@@ -9,7 +9,7 @@ thumbnail: roundicons-thumbnail.png
 alt: image-alt
 project-date: Nisan 2014
 client: Herkes
-category: Aperatif
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: Themes
+description: This week, this theme is on sale!
 
 ---

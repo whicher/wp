@@ -4,7 +4,7 @@ baseurl: ""
 # Site settings
 title: Wordpress Hunt
 email: info@wordpresshunt.com
-description: "The best place on earth to find beautiful wordpress themes."
+description: "The best place on earth to find beautiful Wordpress themes!"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -39,7 +39,7 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/wphunt
+    url: http://twitter.com/wordpresshunt
   - title: facebook
     url: http://facebook.com/wphunt
 
@@ -51,3 +51,7 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# <!-- {% include about.html %} -->
+# <!-- {% include team.html %} -->
+# <!-- {% include clients.html %} -->
