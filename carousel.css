@@ -7,6 +7,10 @@ body {
   color: #5a5a5a;
 }
 
+h1, p {
+ text-shadow: auto; 
+}
+
 
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
